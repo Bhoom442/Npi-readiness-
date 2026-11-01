@@ -1,0 +1,13 @@
+material_id,description,build,build_date,supplier,required_qty,on_hand_qty,open_po_qty,po_due_date,lead_time_days,shortage_qty,status,po_late,days_to_build,data_fix
+M-1001,Substrate v1,NPI-C,2026-12-16,Nova Substrates,2900,5117,0,No open PO,21,0,Excess,False,45,No fix needed
+M-1002,Leadframe v1,NPI-A,2026-11-15,Apex Wafer Supply,4700,2599,2520,2026-11-14,35,0,At risk,False,14,Lead time filled (35-day median)
+M-1003,Gold wire v1,NPI-B,2026-11-29,Orion Packaging,4500,5198,0,No open PO,56,0,Ready,False,28,No fix needed
+M-1004,Mold compound v1,NPI-B,2026-11-29,Apex Wafer Supply,4800,6172,0,No open PO,56,0,Ready,False,28,No fix needed
+M-1005,Solder paste v1,NPI-B,2026-11-29,Silicon Edge,4400,4831,0,No open PO,14,0,Ready,False,28,No fix needed
+M-1006,Die attach epoxy v1,NPI-C,2026-12-16,Apex Wafer Supply,4600,5833,0,No open PO,28,0,Ready,False,45,Supplier filled (same material type)
+M-1007,Wafer tape v1,NPI-B,2026-11-29,Delta Gold Wire,900,966,0,No open PO,21,0,Ready,False,28,No fix needed
+M-1008,Test socket v1,NPI-B,2026-11-29,Nova Substrates,2300,2813,0,No open PO,35,0,Ready,False,28,Lead time filled (35-day median)
+M-1009,Tray v1,NPI-C,2026-12-16,Silicon Edge,3600,1785,0,No open PO,35,1815,Shortage,False,45,No fix needed
+M-1010,Reel v1,NPI-A,2026-11-15,Delta Gold Wire,4700,2781,1900,2026-11-14,21,19,Shortage,False,14,No fix needed
+M-1011,Substrate v1,NPI-C,2026-12-16,Silicon Edge,2000,2082,0,No open PO,56,0,Ready,False,45,No fix needed
+M-1012,Leadframe v1,NPI-C,2026-12-16,Silicon Edge,4600,4885,0,No open PO,35,0,Ready,False,45,No fix needed
